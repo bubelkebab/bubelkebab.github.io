@@ -13,11 +13,11 @@
 -   🔗 [GitHub Repository](https://github.com/bubelkebab/studies/tree/main/machine-learning)  
 
 ## 🎓 Education  
-🏫 **Computer Science**, Adam Mickiewicz University  
+-   🏫 **Computer Science**, Adam Mickiewicz University  
 -   🔗 [GitHub Repository](https://github.com/bubelkebab/studies)  
 
 ## 🎯 About Me  
 💡 Passionate about **natural language processing, machine learning, and AI**.  
 🏎️ Huge **Formula 1** enthusiast, always excited about hidden technical facts.
-⚽ Big fan of **football (soccer)** and competitive **FPS games**.  
+⚽ Big fan of **soccer and FC Barcelona** and competitive **FPS games**.  
 🏃‍♂️ Love running—I've finished a **half-marathon** and can't wait for the next one!  
